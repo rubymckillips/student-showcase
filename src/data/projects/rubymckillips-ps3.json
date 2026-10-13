@@ -1,0 +1,16 @@
+{
+  "assignment": "Problem Set 3",
+  "studentName": "Ruby McKillips",
+  "projectTitle": "Unified Command Center",
+  "description": "Organize tasks, academics, calendar entries, workouts, and meals in one workspace, with a focused Today agenda and an activity history.",
+  "projectType": [
+    "Web App"
+  ],
+  "tags": [
+    "React",
+    "Node.js",
+    "PostgreSQL"
+  ],
+  "projectUrl": "https://unified-command-center-ruby.onrender.com",
+  "projectImage": "rubymckillips-ps3.jpg"
+}
